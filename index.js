@@ -6,7 +6,7 @@ var userList = [];
 var typingUsers = {};
 
 app.get('/', function(req, res){
-  res.send('<h1>AppCoda - SocketChat Server</h1>');
+  res.send('<h1>SocketChat Server</h1>');
 });
 
 
